@@ -12,6 +12,9 @@
 
 A Python package for converting PDFs to markdown while extracting images and tables, generate descriptive text descriptions for extracted tables/images using several LLM clients. And many more functionalities. Markdrop is available on PyPI.
 
+### Official Repo
+[https://github.com/shoryasethia/markdrop](https://github.com/shoryasethia/markdrop)
+
 ## Features  
 
 - [x] PDF to Markdown conversion with formatting preservation using Docling
